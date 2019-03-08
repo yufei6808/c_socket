@@ -1,3 +1,4 @@
+//利用服务器的socket拉取所需的文件，当ssh、vsftpd等都登录不了的时候
 #include <stdio.h>
 #include <stdlib.h>
 #include <string.h>
